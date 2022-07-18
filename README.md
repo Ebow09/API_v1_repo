@@ -12,8 +12,8 @@ This could be extended (based on your business strategy) to:
 - to search by additional fields like firstname, surname etc
 
 ## Requirements
- >= PHP 8.0
- >= Lumen 9.0
+- >= PHP 8.0
+- >= Lumen 9.0
 
 ## Installation
 
