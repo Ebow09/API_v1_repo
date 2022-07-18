@@ -21,5 +21,9 @@ This could be extended (based on your business strategy) to:
 
 After configuration, clone this project to your htdocs folder
 
+### Database
+Database file attached
 
 
+
+[school.zip](https://github.com/Ebow09/API_v1_repo/files/9133381/school.zip)
