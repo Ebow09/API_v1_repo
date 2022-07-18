@@ -17,7 +17,7 @@ This could be extended (based on your business strategy) to:
 - Lumen 9.0
 - MySQL
 - Xampp
--Composer
+- Composer 2.0
 
 After configuration, clone this project to your htdocs folder
 
