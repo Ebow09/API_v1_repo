@@ -1,6 +1,7 @@
 # API demo
 ## Description
 An API desgined in LUMEN to perform CRUD operation on a database.
+Unit tests are included.
 
 It uses an Auth0 token for authentication
 
