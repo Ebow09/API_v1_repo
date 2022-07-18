@@ -12,11 +12,14 @@ This could be extended (based on your business strategy) to:
 - include blank fields (maybe 3) for future expansion 
 - to search by additional fields like firstname, surname etc
 
-## Requirements
- >= PHP 8.0 <br />
- >= Lumen 9.0 <br />
+## Installation Requirements
+- PHP 8.0 
+- Lumen 9.0
+- MySQL
+- Xampp
+-Composer
 
-## Installation
+After configuration, clone this project to your htdocs folder
 
 
 
