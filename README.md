@@ -3,6 +3,8 @@
 An API desgined in LUMEN to perform CRUD operation on a database.
 Unit tests are included.
 
+Link to updated project with swagger documentation https://github.com/Ebow09/API_v1_Swagger_repo
+
 It uses an Auth0 token for authentication
 
 This could be extended (based on your business strategy) to:
